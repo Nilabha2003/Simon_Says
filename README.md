@@ -1,0 +1,1 @@
+Simon Says is a classic children's game that involves one player, called "Simon", giving instructions to the other players. The other players must only follow the instructions if they begin with "Simon says". If the instruction doesn't start with "Simon says", the other players must ignore it and stay still.
